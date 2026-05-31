@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "nome": "Barca de Sushi",
+    "preco": 89.90,
+    "categoria": "Lanches",
+    "descricao": "Varias opções de sushi bla bla bla",
+    "imagem": "https://zanline.com.br/cdn/shop/files/1324676023_7896553956245_E.jpg?v=1777908409"
+  },
+  {
+    "id": 2,
+    "nome": "Pizza de Brócolis",
+    "preco": 49.90,
+    "categoria": "Pizzas",
+    "descricao": "DA BOA",
+    "imagem": "https://claudia.abril.com.br/wp-content/uploads/2020/02/pizza-brocolis-caboclo.jpg?quality=70&strip=info?crop=1&resize=1212,909"
+  }
+]
